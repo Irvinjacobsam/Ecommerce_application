@@ -347,7 +347,6 @@ const Navbar = () => {
             <PiDotsThreeVerticalBold className="text-white hidden sm:block" size={30} />
             <div className="flex items-center text-white uppercase">
               <NavLink className="mr-[10px] border-none" to="/"> <span>Home</span></NavLink>
-              <NavLink className="mr-[10px] border-none" to="/add"><span>Add</span></NavLink>
               <NavLink className="mr-[10px] border-none" to="/products"><span>our store</span></NavLink>
               <NavLink className="mr-[10px] border-none" to="/blogs"><span>blogs</span></NavLink>
               <NavLink className="mr-[10px] border-none" to="/contact"><span>contact</span></NavLink>
